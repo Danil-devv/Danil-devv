@@ -20,6 +20,6 @@ Feel free to connect with me here:
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Danil-devv&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-devv&layout=donut-vertical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-devv&layout=donut)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Danil-devv.Danil-devv)
