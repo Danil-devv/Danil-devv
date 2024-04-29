@@ -21,10 +21,7 @@ Feel free to connect with me here:
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danil-devv&theme=transparent)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danil-devv&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danil-devv&theme=transparent)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danil-devv&theme=transparent)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danil-devv&theme=transparent&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danil-devv&theme=transparent)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Danil-devv.Danil-devv)
