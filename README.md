@@ -19,15 +19,12 @@ Feel free to connect with me here:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=Danil-devv&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-devv&layout=donut)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danil-devv&theme=transparent)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danil-devv&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danil-devv&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danil-devv&theme=transparent)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danil-devv&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danil-devv&theme=algolia)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danil-devv&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danil-devv&theme=algolia&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danil-devv&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danil-devv&theme=transparent&utcOffset=8)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Danil-devv.Danil-devv)
