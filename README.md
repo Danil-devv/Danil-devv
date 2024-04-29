@@ -22,4 +22,12 @@ Feel free to connect with me here:
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Danil-devv&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil-devv&layout=donut)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Danil-devv&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Danil-devv&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Danil-devv&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Danil-devv&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Danil-devv&theme=algolia&utcOffset=8)
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Danil-devv.Danil-devv)
